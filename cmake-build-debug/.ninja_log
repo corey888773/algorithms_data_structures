@@ -1,0 +1,14 @@
+# ninja log v5
+1	195	1647951965456743074	CMakeFiles/aisd.dir/selection_sort.cpp.o	78abcd4b925226ba
+0	318	1648155459299902561	CMakeFiles/aisd.dir/bucket_sort.cpp.o	e8034b475d50f883
+0	194	1648071732936438127	CMakeFiles/aisd.dir/counting_sort.cpp.o	63ba25cf1dc0692
+0	194	1647882790139545572	CMakeFiles/aisd.dir/bubble_sort.cpp.o	f8d0c73e842cae8f
+0	192	1647882703965026241	CMakeFiles/aisd.dir/binary_searching.cpp.o	d7213854e99cdf58
+1	192	1647956879166376819	CMakeFiles/aisd.dir/insertion_sort.cpp.o	e2a431a5f957b29a
+0	222	1647945872269480576	CMakeFiles/aisd.dir/merge_sort.cpp.o	b016c847e95fe4
+318	365	1648155459347902501	aisd	e9219e6d74094cb0
+0	200	1648068495837572812	CMakeFiles/aisd.dir/heap_sort.cpp.o	fb93941f91788247
+0	196	1648065274183792198	CMakeFiles/aisd.dir/quick_sort.cpp.o	dbe9d7d73fd3c608
+0	12	1648155678039626666	build.ninja	4ae39b8d80820203
+0	271	1648155678315626315	CMakeFiles/aisd.dir/radix_sort.cpp.o	cc1f96a1abb33fe7
+271	322	1648155678367626249	aisd	c7216ef8514f25f6

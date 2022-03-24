@@ -1,0 +1,25 @@
+Aby skompilować bez gromadzenia zbędnych plików, należy wpisać w lini komend linux odpowiednie instrukcje będac w folderze z plikami cpp.
+_______________________________________________________________________________________________
+
+
+BUBBLE_SORT
+g++ bubble_sort.cpp -o bubble && ./bubble && rm -r bubble
+
+INSERTION_SORT
+g++ insertion_sort.cpp -o insertion && ./insertion && rm -r insertion
+
+SELECTION_SORT
+g++ selection_sort.cpp -o selection && ./selection && rm -r selection
+
+MERGE_SORT
+g++ merge_sort.cpp -o merge && ./merge && rm -r merge
+
+BINARY_SEARCH
+g++ binary_searching.cpp -o srch && ./srch && rm -r srch
+
+
+_______________________________________________________________________________________________
+
+Aby zobaczyć kod wystarczy wpisać vim [nazwa sortowania].cpp, lub otworzyć w odpowiednim IDE
+
+
